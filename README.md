@@ -1,1 +1,1 @@
-# AOK
+# Arsitektur dan Organisasi Komputer
